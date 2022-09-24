@@ -5,5 +5,5 @@
 
 ***El script ServerMultiThreads funciona de igual manera a ServerSide, con la diferencia que este nuevo permite establecer conexiones simultaneas con multiples clientes.***
 
-***Los scripts se probaron de manera local, para aplicacion real solo se debe camcbiar la IP del servidor en los scripts con una IP real
+***Los scripts se probaron de manera local, para aplicacion real solo se debe cambiar la IP del servidor en los scripts con una IP real
  de servidor***
